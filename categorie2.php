@@ -18,7 +18,7 @@ $produit_all = $stmt_produit->fetchAll();
 
 <table class="table_cat th_produits table table-striped">
     <tr>
-        <th>Id</th>
+        <th>Iddd</th>
         <th>Nom</th>
         <th>Reference</th>
         <th>Prix</th>
